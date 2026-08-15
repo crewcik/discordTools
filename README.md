@@ -1,6 +1,6 @@
 # discordTools
+## crew.dev 😉
 
-## İçerisinde olan sistemler
 ```bash
 ╭────────────────────────────────────╮
 │  [ CREW ]  NETWORK LOAD ENGINE     │
