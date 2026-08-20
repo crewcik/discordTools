@@ -1,7 +1,11 @@
-# discordTools
-<p>15 Star'a sizlerle...</p>
+# Kurulum:
+```bash
+# Modülü Kur
+pip install discord
 
-crew.dev 😉
+# Başlat
+python crew.py
+```
 
 ```bash
 ╭────────────────────────────────────╮
@@ -22,3 +26,5 @@ crew.dev 😉
                              
 [0] Çıkış   
 ```
+
+**Bu Tools Tamamen Crew Tarafından Eğitim Amaçlı Kodlanmıştır.**
